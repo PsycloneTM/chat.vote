@@ -69,6 +69,7 @@ let elements = {
   rewindCommand: document.getElementById("rewindCommand"),
   deleteCommand: document.getElementById("deleteCommand"),
   modCommands: document.getElementById("modCommands"),
+  checkDuplicateLinks: document.getElementById("checkDuplicateLinks"),
 
   //main
   toastContainer: document.getElementById("toastContainer"),
